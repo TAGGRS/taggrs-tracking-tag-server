@@ -62,7 +62,7 @@ const queryPermission = require('queryPermission');
 const sendHttpRequest = require('sendHttpRequest');
 const JSON = require('JSON');
 
-const url = 'https://app.taggrs.io/api/v1/requests/server';
+const url = 'https://api.taggrs.io/api/v1/requests/server';
 const data_url = '?container_id=' + data.container_id + '&event_name=' + data.event_name;
 const total_url = url + data_url;
 
@@ -128,7 +128,7 @@ ___SERVER_PERMISSIONS___
             "listItem": [
               {
                 "type": 1,
-                "string": "https://app.taggrs.io/api/v1/*"
+                "string": "https://api.taggrs.io/api/v1/*"
               }
             ]
           }
