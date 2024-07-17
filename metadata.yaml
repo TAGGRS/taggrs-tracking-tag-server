@@ -1,6 +1,10 @@
 homepage: "https://taggrs.io/"
 documentation: "https://support.taggrs.io/"
 versions:
+	# Latest version
+  - sha: 1ff3cbae8538da0e0f843d2d87b54009e95d903d
+    changeNotes: Updated version.
+	# Older versions
   - sha: 8c6d911f698c35aa8d5604192ee8b2d629a91ad4
     changeNotes: Timeout Fix.
   - sha: eed9a5279f1afa019970b73162af2802103c4063
