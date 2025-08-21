@@ -2,6 +2,8 @@ homepage: "https://taggrs.io/"
 documentation: "https://support.taggrs.io"
 versions:
   # Latest version
+  - sha: 6b302c85941546cdf7ad73821532f6a83c6c6cf9
+    changeNotes: Updated API.
+  # Older versions
   - sha: 05dc211c0a5c19c554491a20482646286888b9e9
     changeNotes: Initial release.
-  # Older versions
